@@ -1,0 +1,7 @@
+{
+    "prettier.useTabs": true,
+    "prettier.trailingComma": "none",
+    "prettier.useEditorConfig": false,
+    "prettier.singleQuote": true,
+    "prettier.endOfLine": "auto"
+}
